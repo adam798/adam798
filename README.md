@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adan Abdullahi</h1>
-<h3 align="center">👋 Computer Science under graduate, Data Science Intern at OESON, aspiring Data Scientist. Enthusiastic about Python, SQL, and Java. Passionate about technology and leveraging data to solve complex problems.</h3>
+<h3 align="center">👋 Computer Science Student at York university, Data Science Intern at Magnify Access Inc, aspiring Data Scientist. Enthusiastic about Python, SQL, and Java. Passionate about technology and leveraging data to solve complex problems.</h3>
 
 - 🔭 I’m currently working on **hospital chatbot**
 
