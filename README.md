@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adan Abdullahi</h1>
-<h3 align="center">👋 Computer Science Student at York university, Data Science Intern at Magnify Access Inc, aspiring Data Scientist. Enthusiastic about Python, SQL, and Java. Passionate about technology and leveraging data to solve complex problems.</h3>
+<h3 align="center">👋 I am a Data Analyst with a Bachelor’s Degree in Computer Science from York University, specializing in data science and data-driven insights. With over a year of hands-on experience in data analysis, machine learning, and data visualization, I excel in leveraging tools like Python, TensorFlow, and Tableau to deliver actionable business insights. My work focuses on optimizing decision-making processes, enhancing workplace accessibility, and driving operational efficiency..</h3>
 
-- 🔭 I’m currently working on **hospital chatbot**
+- 🔭 I’m currently working on **Data Analysis Project about traffic congestion in the city of Toronto**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
