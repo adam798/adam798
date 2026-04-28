@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&section=header&text=Adan%20Abdullahi&fontSize=48&fontColor=fff&fontAlignY=38&desc=Data%20Scientist%20%26%20AI%20Engineer%20%C2%B7%20Toronto&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0f,c8b560&height=140&section=header&text=Adan%20Abdullahi&fontSize=48&fontColor=fff&fontAlignY=38&desc=Data%20Scientist%20%26%20AI%20Engineer%20%C2%B7%20Toronto&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-adanabdullahi.com-c8b560?style=for-the-badge)](https://www.adanabdullahi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adan%20Abdullahi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adanabdullahi)
-[![Email](https://img.shields.io/badge/Email-adanabdullahi262@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adanabdullahi262@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adanabdullahi262@gmail.com)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 > *"I don't just build models — I build systems that answer the right questions."*
 
-I'm a **Data Scientist & AI Engineer** based in Toronto with a strong foundation in Python, SQL, and machine learning. I transform messy, complex data into decisions that move businesses forward — from predicting financial risk to decoding customer sentiment at scale.
+I'm a **Data Analyt, Scientist & AI Engineer** based in Toronto with a strong foundation in Python, SQL, and machine learning. I transform messy, complex data into decisions that move businesses forward — from predicting financial risk to decoding customer sentiment at scale.
 
 - 🎓 **BSc Computer Science** — York University (2019–2023)
 - 📋 **Diploma in Project Administration** — Academy of Learning College (2024–2025)
@@ -108,8 +108,9 @@ XGBoost regression model predicting kids' product resale prices using brand, con
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=adam798&show_icons=true&theme=elegant&hide_border=true&count_private=true&title_color=c8b560&icon_color=e8832a&text_color=555"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam798&layout=compact&theme=elegant&hide_border=true&title_color=c8b560&text_color=555"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=adam798&show_icons=true&hide_border=true&count_private=true&title_color=c8b560&icon_color=e8832a&text_color=0d0d0f&bg_color=f5f2eb" alt="Adan's GitHub Stats"/>
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam798&layout=compact&hide_border=true&title_color=c8b560&text_color=0d0d0f&bg_color=f5f2eb" alt="Top Languages"/>
 
 </div>
 
@@ -119,8 +120,10 @@ XGBoost regression model predicting kids' product resale prices using brand, con
 
 **Let's connect and build something great together 🚀**
 
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-adanabdullahi.com-c8b560?style=for-the-badge)](https://www.adanabdullahi.com)
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-adanabdullahi.com-c8b560?style=for-the-badge)](https://www.adanabdullahi.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer" width="100%"/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0f,c8b560&height=80&section=footer" width="100%"/>
 
 </div>
